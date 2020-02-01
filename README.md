@@ -9,3 +9,5 @@ What problem does this blockchain solve?
 - Scallable.
 - Inexpensive.
 - Robust.
+
+In brief it is a decentralized blockchain cloud storage system.
