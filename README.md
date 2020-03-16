@@ -11,3 +11,5 @@ What problem does this blockchain solve?
 - Robust.
 
 In brief it is a decentralized blockchain cloud storage system.
+
+To be upgraded
